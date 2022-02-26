@@ -12,3 +12,6 @@ README.txt
 readme.txt
 ecom_sample_clean.parquet
 .ipynb_checkpoints/Random_forest-checkpoint.ipynb
+models/step1_model_t.joblib
+models/step1_model_y.joblib
+.ipynb_checkpoints/Random_forest-checkpoint.ipynb
